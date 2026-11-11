@@ -38,12 +38,4 @@ I have worked in Agile/Scrum teams using Jira. Thanks to my developer background
 
 ---
 
-## Key Strengths for QA Role
-
-- **Developer Insight:** Understanding backend logic, Java code, and SQL databases accelerates root-cause investigation.
-- **Enterprise Systems Exposure:** Hands-on experience with Salesforce and SAP enables quick onboarding in complex domain projects.
-- **Structured Testing Approach:** Knowledge of test design principles, bug life cycle, and Jira workflow.
-
----
-
 ⭐️ *Open to interesting projects and opportunities — both in development and QA!*
